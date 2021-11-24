@@ -1,0 +1,19 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin-bottom: 10px;
+    margin-left: 10%;
+}
+
+div.kwadrat {
+    background-color: rgba(0, 0, 0, 0.61);
+}
+
+div.skk {
+    background-color: rgba(0, 0, 0, 0.425);
+}
+
+div.squa {
+    background-color: rgba(0, 0, 0, 0.247);
+}
